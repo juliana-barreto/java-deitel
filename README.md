@@ -31,5 +31,5 @@ Este repositório contém minhas soluções para os exercícios do livro "Java C
 | 25 | GUI do JavaFX                                            |
 
 ## 🛠 Tecnologias Utilizadas
-![OpenJDk](https://img.shields.io/badge/OpenJDK-21.0.7-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenJDk](https://img.shields.io/badge/OpenJDK-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IDE](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
