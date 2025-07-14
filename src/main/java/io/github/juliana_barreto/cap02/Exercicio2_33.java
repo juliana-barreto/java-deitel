@@ -23,7 +23,7 @@ public class Exercicio2_33 {
         Locale.of("pt", "BR");
         double peso = UserInput.promptDouble(scanner, "Insira o seu peso (em kg): ");
         double altura = UserInput.promptDouble(scanner, "Insira a sua altura (em m): ");
-        IMC = peso / (altura*altura);
+        double IMC = peso / (altura*altura);
         System.out.printf("IMC: %.2f%n",IMC);
         System.out.println(avaliaIMC(IMC));
         scanner.close();
