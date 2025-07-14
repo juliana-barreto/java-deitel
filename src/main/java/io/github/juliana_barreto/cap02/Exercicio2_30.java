@@ -5,10 +5,9 @@ package io.github.juliana_barreto.cap02;
 import java.util.Scanner;
 
 public class Exercicio2_30 {
-    private static final int QUANTIDADE = 5;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int num = 0;
+        int num;
         do {
             System.out.print("Insira um inteiro de 5 dígitos: ");
             num = scanner.nextInt();

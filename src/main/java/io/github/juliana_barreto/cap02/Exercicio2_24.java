@@ -2,8 +2,6 @@
 
 package io.github.juliana_barreto.cap02;
 import io.github.juliana_barreto.utils.UserInput;
-
-import java.sql.Array;
 import java.util.Scanner;
 
 public class Exercicio2_24 {

@@ -15,7 +15,7 @@ public class Exercicio2_16 {
         if (x > y) {
             System.out.println(x + " é maior.");
         }
-        else if (y > y) {
+        else if (y > x) {
             System.out.println(y + " é maior.");
         } else {
             System.out.println(x + "e" + y + "são iguais.");

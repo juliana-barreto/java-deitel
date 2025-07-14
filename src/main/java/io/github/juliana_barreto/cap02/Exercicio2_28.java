@@ -13,6 +13,6 @@ public class Exercicio2_28 {
         int raio = scanner.nextInt();
         System.out.println("Diâmetro: "+2*raio+"cm");
         System.out.printf("Circunferência: %.2f cm%n",2*Math.PI*raio);
-        System.out.printf("Área: %.2f cm%n",Math.PI*Math.pow((double)raio,2));
+        System.out.printf("Área: %.2f cm%n",Math.PI*Math.pow(raio,2));
     }
 }
