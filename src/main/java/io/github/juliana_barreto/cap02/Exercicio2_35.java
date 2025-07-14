@@ -12,7 +12,7 @@ public class Exercicio2_35 {
     }
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
-        scanner.useLocale(new Locale("pt", "BR"));
+        Locale.of("pt", "BR");
         double kmDiario = UserInput.promptDouble(scanner,
                 "Quilômetros totais dirigidos por dia: ");
         double precoLitro = UserInput.promptDouble(scanner, "Preço por litro da gasolina: ");

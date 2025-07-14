@@ -19,7 +19,7 @@ public class Exercicio2_33 {
     }
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useLocale(new Locale("pt", "BR"));
+        Locale.of("pt", "BR");
         double peso, altura, IMC;
         System.out.print("Insira o seu peso (em kg): ");
         peso = scanner.nextDouble();
