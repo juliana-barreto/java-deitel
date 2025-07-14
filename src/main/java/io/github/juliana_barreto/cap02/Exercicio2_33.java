@@ -4,6 +4,7 @@ Calcula e exibe o seu índice de massa corporal e avaliação de seu IMC.*/
 package io.github.juliana_barreto.cap02;
 import java.util.Scanner;
 import java.util.Locale;
+import io.github.juliana_barreto.utils.UserInput;
 
 public class Exercicio2_33 {
     private static String avaliaIMC (double IMC) {
@@ -20,11 +21,8 @@ public class Exercicio2_33 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         Locale.of("pt", "BR");
-        double peso, altura, IMC;
-        System.out.print("Insira o seu peso (em kg): ");
-        peso = scanner.nextDouble();
-        System.out.print("Insira a sua altura (em m): ");
-        altura = scanner.nextDouble();
+        double peso = UserInput.promptDouble(scanner, "Insira o seu peso (em kg): ");
+        double altura = UserInput.promptDouble(scanner, "Insira a sua altura (em m): ");
         IMC = peso / (altura*altura);
         System.out.printf("IMC: %.2f%n",IMC);
         System.out.println(avaliaIMC(IMC));
