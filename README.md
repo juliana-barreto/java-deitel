@@ -2,7 +2,7 @@
 Este repositório contém minhas soluções para os exercícios do livro "Java Como Programar – 10ª Edição" de Paul Deitel e Harvey Deitel, que aborda as versões Java SE 8 e 9.
 
 ## 📚 Estrutura do Livro
-| Capítulo | Tópicos Principais                                 |
+| Capítulo | Tópicos                                |
 | :------: |:--------------------------------------------------:|
 | 1 | Computadores, internet e Java                             |
 | 2 | Entrada/saída e operadores                                |
