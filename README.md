@@ -33,3 +33,8 @@ Este repositório contém minhas soluções para os exercícios do livro "Java C
 ## 🛠 Tecnologias Utilizadas
 ![OpenJDk](https://img.shields.io/badge/OpenJDK-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IDE](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!--
+![GUI Toolkit](https://img.shields.io/badge/JavaFX-0775C9?style=for-the-badge&logo=openjdk&logoColor=white)
+![API](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge)
+![Graphics API](https://img.shields.io/badge/Java_2D-5382a1?style=for-the-badge)
+-->
