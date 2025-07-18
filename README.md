@@ -1,5 +1,5 @@
 # ☕ Java – Deitel & Deitel
-Este repositório contém minhas soluções para os exercícios do livro "Java Como Programar – 10ª Edição" de Paul Deitel e Harvey Deitel, que aborda as versões Java SE 8 e 9.
+Este repositório contém minhas soluções para os exercícios do livro "Java Como Programar – 10ª Edição" de Paul Deitel e Harvey Deitel, que aborda as versões Java SE 8 e 9. A obra é uma referência para o estudo de Java, amplamente reconhecida por sua abordagem didática que apresenta os conceitos no contexto de programas funcionais e completos. 
 
 ## 📚 Estrutura do Livro
 | Capítulo | Tópicos                                |
