@@ -1,12 +1,12 @@
 /* Aplicativo que calcula o custo diário de dirigir e estima quanto dinheiro o usuário pode
 economizar com o uso da faixa solidária */
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio35;
 import java.util.Locale;
 import java.util.Scanner;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_35 {
+public class EconomiaComCarona {
     private static double calculaEconomia(double custo, int divisao) {
         return custo - (custo/divisao);
     }

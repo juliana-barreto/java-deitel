@@ -1,11 +1,11 @@
 /* Aplicativo que lê a entrada a partir do usuário do raio de um círculo como um inteiro e imprime o
 diâmetro do círculo, a circunferência e área. */
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio28;
 import io.github.juliana_barreto.utils.UserInput;
 import java.util.Scanner;
 
-public class Exercicio2_28 {
+public class GeometriaDoCirculo {
     public static void main(String[]args) {
         Scanner scanner = new Scanner(System.in);
         int raio = UserInput.promptInt(scanner, "Insira o raio do círculo (em cm): ");

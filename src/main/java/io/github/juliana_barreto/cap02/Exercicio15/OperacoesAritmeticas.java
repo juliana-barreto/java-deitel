@@ -1,10 +1,10 @@
 // Aplicativo que recebe dois inteiros e exibe a sua soma, produto, diferença e quociente
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio15;
 import java.util.Scanner;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_15 {
+public class OperacoesAritmeticas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x, y;

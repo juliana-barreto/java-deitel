@@ -1,12 +1,12 @@
 /* Aplicativo de calculadora de IMC que lê o peso do usuário em quilogramas e altura em metros.
 Calcula e exibe o seu índice de massa corporal e avaliação de seu IMC.*/
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio33;
 import java.util.Scanner;
 import java.util.Locale;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_33 {
+public class IndiceDeMassaCorporal {
     private static String avaliaIMC (double IMC) {
         if(IMC < 18.5) {
             return "Abaixo do peso";

@@ -1,10 +1,10 @@
 //Aplicativo que recebe três inteiros e exibe a soma, média, produto e os números menores e maiores
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio17;
 import java.util.Scanner;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_17 {
+public class AnaliseNumerica {
     private static int encontrarMaior (int x, int y, int z){
         if (x >= y && x >= z) {
             return x;

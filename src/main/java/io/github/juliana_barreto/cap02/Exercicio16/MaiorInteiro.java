@@ -1,11 +1,11 @@
 /* Aplicativo que recebe dois inteiros e exibe o maior seguido pelas palavras "é maior". Se forem
 iguais, imprime a mensagem "Esses números são iguais".*/
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio16;
 import java.util.Scanner;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_16 {
+public class MaiorInteiro {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x, y;
@@ -18,7 +18,7 @@ public class Exercicio2_16 {
         else if (y > x) {
             System.out.println(y + " é maior.");
         } else {
-            System.out.println(x + "e" + y + "são iguais.");
+            System.out.println("Esses números são iguais");
         }
     }
 }

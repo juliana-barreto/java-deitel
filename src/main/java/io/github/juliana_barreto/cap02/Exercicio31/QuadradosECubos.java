@@ -1,9 +1,9 @@
 /* Aplicativo que calcula os quadrados e cubos dos números de O a 10 e imprime os valores resultantes
 em formato de tabela */
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio31;
 
-public class Exercicio2_31 {
+public class QuadradosECubos {
     private static int calculaQuadrado(int num){
         return num*num;
     }

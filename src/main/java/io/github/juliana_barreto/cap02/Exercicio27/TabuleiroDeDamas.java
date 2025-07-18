@@ -1,8 +1,8 @@
 // Aplicativo que exibe um padrão de tabuleiro de damas
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio27;
 
-public class Exercicio2_27 {
+public class TabuleiroDeDamas {
     private static final int TAMANHO = 8;
     public static void main(String[] args) {
         for (int i = 0; i < TAMANHO; i++) {

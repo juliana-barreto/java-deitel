@@ -1,10 +1,10 @@
-// Programa que recebe cinco números, detemina e imprime quantos são negativos, positivos e zeros.
+// Programa que recebe cinco números, determina e imprime quantos são negativos, positivos e zeros.
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio32;
 import java.util.Scanner;
 import io.github.juliana_barreto.utils.UserInput;
 
-public class Exercicio2_32 {
+public class AnaliseDeSinal {
     private static final int QUANTIDADE = 5;
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);

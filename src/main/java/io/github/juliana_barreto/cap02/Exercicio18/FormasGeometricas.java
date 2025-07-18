@@ -1,8 +1,8 @@
 // Aplicativo que exibe uma caixa, uma elipse, uma seta e um losango utilizando asteriscos(*)
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio18;
 
-public class Exercicio2_18 {
+public class FormasGeometricas {
     private static final int ALTURA = 9;
     public static void imprimirCaixa() {
         // Itera sobre as linhas (eixo y)

@@ -1,10 +1,10 @@
 // Aplicativo que recebe um inteiro, determina e imprime se ele é par ou ímpar.
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio25;
 import io.github.juliana_barreto.utils.UserInput;
 import java.util.Scanner;
 
-public class Exercicio2_25 {
+public class ParOuImpar {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             int x = UserInput.promptInt(scanner, "Insira um inteiro: ");

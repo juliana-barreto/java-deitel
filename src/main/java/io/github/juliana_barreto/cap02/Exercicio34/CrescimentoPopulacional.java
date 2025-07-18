@@ -1,13 +1,13 @@
 /* Aplicativo que recebe a população mundial atual e a taxa de crescimento demográfico anual e exibe
 a população mundial estimada depois de um, dois, três, quatro e cinco anos. */
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio34;
 import io.github.juliana_barreto.utils.UserInput;
 
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Exercicio2_34 {
+public class CrescimentoPopulacional {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         Locale.of("pt", "BR");

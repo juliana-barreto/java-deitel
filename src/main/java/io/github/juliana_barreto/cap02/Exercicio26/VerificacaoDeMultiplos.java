@@ -1,11 +1,11 @@
 /* Aplicativo que recebe dois inteiros, determina se o primeiro é múltiplo do segundo e imprime o
 resultado*/
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio26;
 import io.github.juliana_barreto.utils.UserInput;
 import java.util.Scanner;
 
-public class Exercicio2_26 {
+public class VerificacaoDeMultiplos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
             int x = UserInput.promptInt(scanner, 1);

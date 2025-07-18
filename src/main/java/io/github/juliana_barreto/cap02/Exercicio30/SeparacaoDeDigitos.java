@@ -1,10 +1,10 @@
 /* Aplicativo que recebe um número de cinco dígitos, o separa em seus dígitos individuais e os
 imprime separados um dos outros por três espaços */
 
-package io.github.juliana_barreto.cap02;
+package io.github.juliana_barreto.cap02.Exercicio30;
 import java.util.Scanner;
 
-public class Exercicio2_30 {
+public class SeparacaoDeDigitos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num;
