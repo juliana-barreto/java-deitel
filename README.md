@@ -42,7 +42,7 @@
 |   35    | Swing GUI Components: Part 2                                        |
 |   36    | Java Module System and Other Java 9 Features                        |
 
-## 🛠️ Tools
+## 🛠️ Built With
 
 ![OpenJDk](https://img.shields.io/badge/OpenJDK-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![IDE](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
