@@ -1,5 +1,5 @@
 # ☕ Java – Deitel & Deitel
- This repository contains my solutions to the exercises from the book "Java How to Program, 11th Edition" by Paul Deitel and Harvey Deitel. This edition covers features from Java SE 8 and 9. The book is a comprehensive reference for studying Java, widely recognized for its didactic approach that presents concepts in the context of functional programs.
+This repository features my solutions for Deitel and Deitel's "Java: How to Program, 11th Edition." Focusing on Java SE 8 and the new capabilities of SE 9, this comprehensive guide is known for its practical, hands-on approach of teaching concepts through complete, working examples.
 
 ## 📚 Book Chapters
 
