@@ -8,8 +8,8 @@ This repository features my solutions for Deitel and Deitel's "Java: How to Prog
 |    1    | Introduction to Computers, the Internet and Java                    |
 |    2    | Introduction to Java Applications; Input/Output and Operators       |
 |    3    | Introduction to Classes, Objects, Methods and Strings               |
-|    4    | Control Statements: Part 1; Assignment, ++ and -- Operators         |
-|    5    | Control Statements: Part 2; Logical Operators                       |
+|    4    | Control Statements Part 1: Assignment, ++ and -- Operators         |
+|    5    | Control Statements Part 2: Logical Operators                       |
 |    6    | Methods: A Deeper Look                                              |
 |    7    | Arrays and ArrayLists                                               |
 |    8    | Classes and Objects: A Deeper Look                                  |
