@@ -1,6 +1,7 @@
 package io.github.juliana_barreto.utils;
 
 import java.util.Scanner;
+import java.util.Locale;
 
 public class UserInput {
 
