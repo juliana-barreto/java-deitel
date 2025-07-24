@@ -33,11 +33,10 @@ public class UserInput {
       scanner.next(); // Consume the invalid token
     }
   }
-}
 
-public static double promptDouble(Scanner scanner, String msg) {
-  System.out.print(msg);
-  UserInput.ensureDouble(scanner);
-  return scanner.nextDouble();
-}
+  public static double promptDouble(Scanner scanner, String msg) {
+    System.out.print(msg);
+    UserInput.ensureDouble(scanner);
+    return scanner.nextDouble();
+  }
 }
