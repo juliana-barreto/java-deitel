@@ -16,8 +16,8 @@ This repository features my solutions for Deitel and Deitel's "Java: How to Prog
 |    9    | Object-Oriented Programming: Inheritance                            |
 |   10    | Object-Oriented Programming: Polymorphism and Interfaces            |
 |   11    | Exception Handling: A Deeper Look                                   |
-|   12    | JavaFX Graphical User Interfaces: Part 1                            |
-|   13    | JavaFX GUI: Part 2                                                  |
+|   12    | JavaFX Graphical User Interfaces Part 1                            |
+|   13    | JavaFX GUI Part 2                                                  |
 |   14    | Strings, Characters and Regular Expressions                         |
 |   15    | Files, Input/Output Streams, NIO and XML Serialization              |
 |   16    | Generic Collections                                                 |
@@ -30,16 +30,16 @@ This repository features my solutions for Deitel and Deitel's "Java: How to Prog
 |   23    | Concurrency                                                         |
 |   24    | Accessing Databases with JDBC                                       |
 |   25    | Introduction to JShell: Java 9’s REPL                               |
-|   26    | Swing GUI Components: Part 1                                        |
+|   26    | Swing GUI Components Part 1                                        |
 |   27    | Graphics and Java 2D                                                |
 |   28    | Networking                                                          |
 |   29    | Java Persistence API (JPA)                                          |
-|   30    | JavaServer™ Faces Web Apps: Part 1                                  |
-|   31    | JavaServer™ Faces Web Apps: Part 2                                  |
+|   30    | JavaServer™ Faces Web Apps Part 1                                  |
+|   31    | JavaServer™ Faces Web Apps Part 2                                  |
 |   32    | REST-Based Web Services                                             |
-|   33    | ATM Case Study, Part 1: Object-Oriented Design with the UML         |
+|   33    | ATM Case Study Part 1: Object-Oriented Design with the UML         |
 |   34    | ATM Case Study Part 2: Implementing an Object-Oriented Design       |
-|   35    | Swing GUI Components: Part 2                                        |
+|   35    | Swing GUI Components Part 2                                        |
 |   36    | Java Module System and Other Java 9 Features                        |
 
 ## 🛠️ Built With
